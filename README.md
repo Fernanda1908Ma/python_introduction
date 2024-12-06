@@ -24,8 +24,8 @@
 | 🧪 **Bases de Datos Proteicas** | Uso de UniProt e InterPro para actividades de exploración proteómica.          |
 | 📝 **Evaluación y Feedback**    | Retroalimentación de actividades y ejercicios realizados.                      |
 
-📂 **Consulta el temario completo aquí:**  
-[![Temario del curso](https://img.shields.io/badge/Temario-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1OjdQdVhaRGlVevwV8BcSnKf2nRv3dtRf?usp=sharing)
+📂 **Consulta más información aquí:**  
+[![Información Complementaria](https://img.shields.io/badge/Temario-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1OjdQdVhaRGlVevwV8BcSnKf2nRv3dtRf?usp=sharing)
 
 ---
 
